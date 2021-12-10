@@ -38,7 +38,7 @@ function placeXOrO (squareNumber) {
     }
     //This function results in a random square being selected.
     function computersTurn() {
-        let seccess = false;
+        let success = false;
         let pickASquare;
         while(!success){
             //A random number between 0 and 8 is selected.
